@@ -5,3 +5,5 @@ My Git learning Notes
 3. git commit -m saves a checkpoint with a message 
 4. git push uploads code to GitHub 
 5. GitHub is the online platform to store and share code 
+6. Always write meaningful commit messages 
+7. Use git status to check what files changed 
