@@ -1,1 +1,7 @@
-"My Git learning notes" 
+My Git learning Notes 
+ 
+1. Git is a version control system that tracks code changes 
+2. git add . stages all files for commit 
+3. git commit -m saves a checkpoint with a message 
+4. git push uploads code to GitHub 
+5. GitHub is the online platform to store and share code 
